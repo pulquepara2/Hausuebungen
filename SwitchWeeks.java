@@ -29,7 +29,7 @@ public class SwitchWeeks {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Error");
+                System.out.println("Uh oh");
                 break;
         }
 
